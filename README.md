@@ -14,3 +14,4 @@
 
 ## Project Progress 
 - [x] Data Audit
+- [x] Data Cleaning
