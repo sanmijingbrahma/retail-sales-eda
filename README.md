@@ -15,3 +15,5 @@
 ## Project Progress 
 - [x] Data Audit
 - [x] Data Cleaning
+- [x] EDA 
+- [x] Visual Analysis
